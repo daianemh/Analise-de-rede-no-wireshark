@@ -2,7 +2,7 @@
 
 🌐 Ambiente Controlado
 
-O estudo foi realizado em um ambiente controlado para fins de aprendizado e demonstração de técnicas de análise de rede.
+O estudo foi realizado em um ambiente controlado para fins de aprendizado e demonstração de técnicas de análise de rede.  atividade realizada 29/08/2025
 
 🚀 Visão Geral do Projeto
 
