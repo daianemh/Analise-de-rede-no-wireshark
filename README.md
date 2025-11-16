@@ -17,18 +17,6 @@ O objetivo principal desta análise foi:
     Demonstrar a utilidade do esquema de coloração do Wireshark para rápida identificação de fluxos de comunicação e potenciais problemas.
 
 
-🎨 Legenda de Coloração do Wireshark
-
-O Wireshark utiliza cores para categorizar e destacar pacotes, tornando a análise mais eficiente.
-Cor	Significado	Exemplo de Uso
-🔵 Azul Claro	Pacotes de Resposta (Sucesso). O pacote foi recebido com sucesso. Cor mais comum no tráfego normal.	Comunicação HTTP/DNS bem-sucedida.
-⚫ Azul Escuro	Pacotes de Requisição ou Confirmação. Indicam o envio de dados ou o início de uma conexão.	Primeiro pacote de um handshake TCP.
-🟢 Verde	Início e Fim de Conexões TCP. Sinalizam o handshake inicial (SYN) e a finalização da conexão (FIN).	Conexão estabelecida e encerrada.
-🔴 Vermelho	Problema ou Erro Crítico. Indica problemas como erro de checksum, pacote perdido, ou retransmissão excessiva. Sempre exige investigação.	Pacotes Bad TCP ou ICMP Destination Unreachable.
-🟡 Amarelo	Pacotes UDP (User Datagram Protocol). Protocolo mais rápido, mas não garante a entrega.	Serviços de streaming de vídeo, VoIP, jogos.
-🌸 Rosa	Pacotes ARP (Address Resolution Protocol). Usado na rede local para descobrir o endereço MAC de um IP conhecido.	O seu computador perguntando: "Quem é o IP 192.168.0.1?".
-⚪ Cinza	Pacotes que estão fora de uma conversa principal ou que não pertencem ao filtro de busca.	Tráfego lateral ou irrelevante para a análise focada.
-
 📸 Análise Passo a Passo (Screenshots)
 
 Os screenshots abaixo ilustram o processo de captura e os resultados da análise.
