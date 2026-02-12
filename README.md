@@ -43,7 +43,7 @@ Os screenshots abaixo ilustram o processo de captura e os resultados da análise
         A coluna Protocolo permite identificar rapidamente o tipo de comunicação em andamento.
 
 3. Foco em Conexão Segura (TLS) e Problema (Vermelho)
-<img width="845" height="648" alt="image" src="https://github.com/user-attachments/assets/8145a26d-4fb8-4a75-83a0-f79bfbd39c2f" />
+
 
     Descrição: Uma inspeção mais detalhada de um segmento da captura.
 
