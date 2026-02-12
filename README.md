@@ -23,9 +23,6 @@ Os screenshots abaixo ilustram o processo de captura e os resultados da análise
 
 1. Seleção da Interface e Início da Captura
 
-<img width="716" height="606" alt="image" src="https://github.com/user-attachments/assets/2d69d9df-28f6-4849-bde0-8364dd0614e3" />
-
-
 
     Descrição: Captura da tela inicial mostrando a seleção da interface de rede (Wi-Fi 2) para a escuta. O Wireshark 4.4.9 está pronto para iniciar a coleta de pacotes.
 
@@ -33,9 +30,7 @@ Os screenshots abaixo ilustram o processo de captura e os resultados da análise
 
 2. Tráfego Capturado em Tempo Real
 
-<img width="716" height="603" alt="image" src="https://github.com/user-attachments/assets/ae9c343b-5898-433b-a5ba-3d6e6bd90d68" />
 
-<img width="859" height="632" alt="image" src="https://github.com/user-attachments/assets/3cac4401-7072-4668-bca3-052b29582afb" />
 
     Descrição: Visualização principal dos pacotes sendo capturados. A lista de pacotes exibe protocolos comuns em redes modernas:
 
@@ -59,8 +54,6 @@ Os screenshots abaixo ilustram o processo de captura e os resultados da análise
         O painel inferior mostra o encapsulamento do pacote, camada por camada (Ethernet II > IPv4 > TCP > Transport Layer Security).
 
 4. Detalhe de um Pacote com Erro
-
-<img width="1081" height="621" alt="image" src="https://github.com/user-attachments/assets/0e17b921-bda3-4182-a832-69161bc283f9" />
 
 
     Descrição: Visualização detalhada de um pacote TCP específico, mostrando a estrutura de bytes brutos (Hex Dump).
