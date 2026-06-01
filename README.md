@@ -19,7 +19,7 @@ O objetivo principal desta análise foi:
 
 📸 Análise Passo a Passo (Screenshots)
 
-Os screenshots abaixo ilustram o processo de captura e os resultados da análise.
+abaixo descrição ilustram o processo de captura e os resultados da análise.
 
 1. Seleção da Interface e Início da Captura
 
